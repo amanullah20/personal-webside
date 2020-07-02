@@ -1,0 +1,55 @@
+h2{
+    color: orangered;
+}
+ .half-width{
+     width: 40%;
+     float: left;
+     margin-top: 2%;
+     
+ }
+ .half-width img{
+     width: 100%;
+
+ }
+.block-header{
+    background-image: url(header.png);
+}
+section{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+.block-biography{
+    background-image: url(biography-bg.png);
+}
+.latest-work{
+    background-image: url(latest-work-bg.png);
+}
+#mokta{
+    width: 30%;
+}
+#salma{
+    width: 30%;
+}
+#samma{
+    width: 30%;
+}
+.link{
+    color: black;
+    background-color: red;
+}
+.footer{
+    background-image: url(footer-bg.png);
+}
+.full-width{
+    width: 80%;
+    margin-top: 2%;
+}
+.last{
+    color: white;
+    background-color: red;
+    text-align: center;
+}.middle{
+    text-align: center;
+}
+
